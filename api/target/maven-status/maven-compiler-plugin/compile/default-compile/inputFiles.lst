@@ -1,0 +1,17 @@
+D:\switchly\api\src\main\java\com\switchly\api\controller\OrganizationController.java
+D:\switchly\api\src\main\java\com\switchly\api\controller\ProjectController.java
+D:\switchly\api\src\main\java\com\switchly\api\dto\CreateOrganizationRequest.java
+D:\switchly\api\src\main\java\com\switchly\api\dto\CreateProjectRequest.java
+D:\switchly\api\src\main\java\com\switchly\api\exception\ErrorResponse.java
+D:\switchly\api\src\main\java\com\switchly\api\exception\GlobalExceptionHandler.java
+D:\switchly\api\src\main\java\com\switchly\api\exception\NotFoundException.java
+D:\switchly\api\src\main\java\com\switchly\api\model\Flag.java
+D:\switchly\api\src\main\java\com\switchly\api\model\Organization.java
+D:\switchly\api\src\main\java\com\switchly\api\model\Project.java
+D:\switchly\api\src\main\java\com\switchly\api\repository\InMemoryOrganizationRepository.java
+D:\switchly\api\src\main\java\com\switchly\api\repository\InMemoryProjectRepository.java
+D:\switchly\api\src\main\java\com\switchly\api\repository\OrganizationRepository.java
+D:\switchly\api\src\main\java\com\switchly\api\repository\ProjectRepository.java
+D:\switchly\api\src\main\java\com\switchly\api\service\OrganizationService.java
+D:\switchly\api\src\main\java\com\switchly\api\service\ProjectService.java
+D:\switchly\api\src\main\java\com\switchly\api\SwitchlyApiApplication.java
